@@ -221,7 +221,7 @@ php artisan test
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ebrahim-Adel-Mahmoud/Backend-Task---Leads-Management-Module.git
 ```
 
 Install dependencies:
@@ -292,13 +292,11 @@ Password: 12345678
 
 ## Author
 
-**Ebrahim Adel Mahmoud**
+<a href="https://github.com/Ebrahim-Adel-Mahmoud">
+  <img src="https://github.com/Ebrahim-Adel-Mahmoud.png" width="100" />
+</a>
 
+**Ebrahim Adel Mahmoud**  
 Backend Laravel Engineer
-
-* GitHub: https://github.com/Ebrahim-Adel-Mahmoud
-* LinkedIn: https://www.linkedin.com/in/ebrahim-adel-mahmoud
-
----
 
 Made with ❤️ using Laravel 12.
